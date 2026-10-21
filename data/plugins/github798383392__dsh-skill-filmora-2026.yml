@@ -1,0 +1,6 @@
+url: https://github.com/github798383392/dsh-skill-filmora-2026
+name: github798383392/dsh-skill-filmora-2026
+category: skill
+description:
+  en: 'GUI-automation skill pack for Wondershare Filmora 2026 on Windows: turns edit decisions into a plan.json, drives the Filmora editor with screenshots plus keyboard and mouse, exports MP4, and validates the result with duration, resolution, audio, black-frame and freeze-frame checks. Also ships a read-only .wfp/.wfpx project inspector. The user must open and sign in to Filmora first; writing .wfp projects and FCPXML import are not implemented yet.'
+  zh: '面向 Windows 万兴喵影 2026 的 GUI 自动化技能包：把剪辑决策生成 plan.json，用截图加键鼠驱动喵影编辑器、导出 MP4，并用时长、分辨率、音轨、黑场、冻帧检查验收成片；另含只读的 .wfp/.wfpx 工程检查器。需要用户先打开并登录喵影；写 .wfp 工程与 FCPXML 导入尚未实现。'
